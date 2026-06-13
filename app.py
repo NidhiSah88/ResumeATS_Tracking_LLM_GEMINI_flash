@@ -11,6 +11,12 @@ import pdf2image
 import google.generativeai as genai 
 
 
+## if deployin on stramlit
+import streamlit as st
+
+# genai.configure(
+#     api_key=st.secrets["GOOGLE_API_KEY"]
+# )
 
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 

@@ -4,6 +4,12 @@
 venv/
 env/
 .venv/
+.streamlit/secrets.toml
+__pycache__/
+.env
+.streamlit/
+streamlit/
+secrets.toml
 
 # Python cache
 __pycache__/

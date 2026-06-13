@@ -62,7 +62,7 @@ python -m pip install google-generativeai
 python -m pip show google-generativeai
 
 
-
+pip install python-dotenv
 python test_models.py
 
 Let's rebuild cleanly once more and force Python 3.11.
