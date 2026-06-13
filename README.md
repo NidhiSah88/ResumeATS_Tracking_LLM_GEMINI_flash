@@ -157,6 +157,17 @@ python --version
 
 To run : streamlit run app.py 
 
+## Remove secret from git tracking
+git rm --cached -r streamlit
+
+
+If Git says file not found, continue.
+
+Step 4: Rewrite last commit (clean history)
+git add .
+git commit --amend --no-edit
+Step 5: Push again
+git push origin main --force
 
 
 G_API_   KEY
