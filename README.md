@@ -15,15 +15,8 @@ STEPS LOGICS:
 streamlit run  app.py 
 
 GO TO GOOGLE AI STUDIO FOR API KEY 
-
+https://aistudio.google.com/api-keys?project=gen-lang-client-0237850925
 go to GOOGLE SERPER TOOLS AND GET API KEY 
-
-GOOGLE_API_KEY
-"AQ*****Ab8RN6KjZNXtfNmzTUPKE9RDIW2VPL-*****P3kpvqNDv8Kk-******dGLZ2Q"
-
-OPENAI_API_KEY
-'sk-********proj-yfMUKgvWkSzV0y9y2ewgxHTNnkieiaL3_mZm5uRth0ohH98y3KBbu-Y*****YMElkjCyzeTWO5JZjIoT3BlbkFJKUvzi1_qVDzS-IOPUHSK2nCgdHe0ZGCcdEjVlgfKrHDEBA008eOe7wKayaO849uX8E7-*******TaP1MA'
-
 
 
 in env file :
@@ -159,6 +152,13 @@ python --version
 
 To run : streamlit run app.py 
 
+
+
+GOOGLE_API_KEY
+"AQ*****Ab8RN6KjZNXtfNmzTUPKE9RDIW2VPL-*****P3kpvqNDv8Kk-******dGLZ2Q"
+
+OPENAI_API_KEY
+'sk-********proj-yfMUKgvWkSzV0y9y2ewgxHTNnkieiaL3_mZm5uRth0ohH98y3KBbu-Y*****YMElkjCyzeTWO5JZjIoT3BlbkFJKUvzi1_qVDzS-IOPUHSK2nCgdHe0ZGCcdEjVlgfKrHDEBA008eOe7wKayaO849uX8E7-*******TaP1MA'
 
 
 
